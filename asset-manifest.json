@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SomeITperson-github-crypt-pages/static/css/main.681e4aca.css",
-    "main.js": "/SomeITperson-github-crypt-pages/static/js/main.ae772b66.js",
+    "main.css": "/SomeITperson-github-crypt-pages/static/css/main.b7ff85ce.css",
+    "main.js": "/SomeITperson-github-crypt-pages/static/js/main.5c93e955.js",
     "index.html": "/SomeITperson-github-crypt-pages/index.html",
-    "main.681e4aca.css.map": "/SomeITperson-github-crypt-pages/static/css/main.681e4aca.css.map",
-    "main.ae772b66.js.map": "/SomeITperson-github-crypt-pages/static/js/main.ae772b66.js.map"
+    "main.b7ff85ce.css.map": "/SomeITperson-github-crypt-pages/static/css/main.b7ff85ce.css.map",
+    "main.5c93e955.js.map": "/SomeITperson-github-crypt-pages/static/js/main.5c93e955.js.map"
   },
   "entrypoints": [
-    "static/css/main.681e4aca.css",
-    "static/js/main.ae772b66.js"
+    "static/css/main.b7ff85ce.css",
+    "static/js/main.5c93e955.js"
   ]
 }
